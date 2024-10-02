@@ -97,7 +97,7 @@
             this.usersComboBox.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.usersComboBox.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.usersComboBox.FormattingEnabled = true;
-            this.usersComboBox.Location = new System.Drawing.Point(201, 301);
+            this.usersComboBox.Location = new System.Drawing.Point(201, 193);
             this.usersComboBox.Margin = new System.Windows.Forms.Padding(4);
             this.usersComboBox.Name = "usersComboBox";
             this.usersComboBox.Size = new System.Drawing.Size(200, 28);
@@ -108,7 +108,7 @@
             this.openButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(175)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.openButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.openButton.ForeColor = System.Drawing.Color.White;
-            this.openButton.Location = new System.Drawing.Point(201, 334);
+            this.openButton.Location = new System.Drawing.Point(203, 228);
             this.openButton.Name = "openButton";
             this.openButton.Size = new System.Drawing.Size(263, 30);
             this.openButton.TabIndex = 1;
@@ -126,7 +126,7 @@
             this.AddUserButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(175)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.AddUserButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.AddUserButton.ForeColor = System.Drawing.Color.White;
-            this.AddUserButton.Location = new System.Drawing.Point(406, 301);
+            this.AddUserButton.Location = new System.Drawing.Point(408, 195);
             this.AddUserButton.Name = "AddUserButton";
             this.AddUserButton.Size = new System.Drawing.Size(28, 28);
             this.AddUserButton.TabIndex = 3;
@@ -139,7 +139,7 @@
             this.RemoveUserButton.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(175)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.RemoveUserButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.RemoveUserButton.ForeColor = System.Drawing.Color.White;
-            this.RemoveUserButton.Location = new System.Drawing.Point(436, 301);
+            this.RemoveUserButton.Location = new System.Drawing.Point(438, 195);
             this.RemoveUserButton.Name = "RemoveUserButton";
             this.RemoveUserButton.Size = new System.Drawing.Size(28, 28);
             this.RemoveUserButton.TabIndex = 4;
@@ -399,26 +399,26 @@
             // importarToolStripMenuItem
             // 
             this.importarToolStripMenuItem.Name = "importarToolStripMenuItem";
-            this.importarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.importarToolStripMenuItem.Size = new System.Drawing.Size(129, 22);
             this.importarToolStripMenuItem.Text = "Importar";
             this.importarToolStripMenuItem.Click += new System.EventHandler(this.importarToolStripMenuItem_Click_1);
             // 
             // exportarToolStripMenuItem
             // 
             this.exportarToolStripMenuItem.Name = "exportarToolStripMenuItem";
-            this.exportarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.exportarToolStripMenuItem.Size = new System.Drawing.Size(129, 22);
             this.exportarToolStripMenuItem.Text = "Exportar";
             this.exportarToolStripMenuItem.Click += new System.EventHandler(this.exportarToolStripMenuItem_Click_1);
             // 
             // toolStripSeparator2
             // 
             this.toolStripSeparator2.Name = "toolStripSeparator2";
-            this.toolStripSeparator2.Size = new System.Drawing.Size(177, 6);
+            this.toolStripSeparator2.Size = new System.Drawing.Size(126, 6);
             // 
             // gerenciarToolStripMenuItem
             // 
             this.gerenciarToolStripMenuItem.Name = "gerenciarToolStripMenuItem";
-            this.gerenciarToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.gerenciarToolStripMenuItem.Size = new System.Drawing.Size(129, 22);
             this.gerenciarToolStripMenuItem.Text = "Gerenciar";
             this.gerenciarToolStripMenuItem.Click += new System.EventHandler(this.gerenciarToolStripMenuItem_Click);
             // 
