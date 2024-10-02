@@ -61,7 +61,7 @@ namespace Perfect_Launcher
         {
             InitializeComponent();
 
-            versão1000ToolStripMenuItem.Text = $"Versão {Assembly.GetEntryAssembly().GetName().Version}";
+            //versão1000ToolStripMenuItem.Text = $"Versão {Assembly.GetEntryAssembly().GetName().Version}";
 
             ScrollTextDefaultValue = labelGlobal.Top;
 
@@ -216,6 +216,8 @@ namespace Perfect_Launcher
             // TODO: Desfazer o hash da senha ao abrir
             string Passwd = Settings.Default.Passwd[UserId];
 
+            string Nick = Settings.Default.Classe[UserId];
+
             // Verifica se a conta já está aberta (só se o OnlyAdd for false)
             for (int i = 0; i < RGames.Count && !bOnlyAdd; i++)
             {
@@ -325,13 +327,13 @@ namespace Perfect_Launcher
             {
                 // Apaga tudo que está no arquivo e deixa como false
                 // Assim, aparecerá a lista de servidores pro jogador escolher
-                File.WriteAllText(caminhoArquivoAccounts, "false");
+                //File.WriteAllText(caminhoArquivoAccounts, "false");
             }
 
             fileInfo.Attributes |= FileAttributes.ReadOnly;
 
             // Argumentos que serão usados
-            string args = " startbypatcher " + Settings.Default.ExtraArgs + " user:" + User + " pwd:" + Passwd;
+            string args = " startbypatcher " + Settings.Default.ExtraArgs + " user:" + User + " pwd:" + Passwd + " role:" + Nick;
 
             var processStartInfo = new ProcessStartInfo
             {
@@ -933,7 +935,7 @@ namespace Perfect_Launcher
                 // Pede um novo request, salva no bloco de notas
                 WebClient wc = new WebClient();
                 wc.Encoding = Encoding.UTF8;
-                string url = "https://pastebin.com/raw/1B7k6kFa";
+                string url = "https://pastebin.com/raw/FtwtwUin";
                 string content = wc.DownloadString(url);
 
                 await Task.Delay(50);
@@ -1115,16 +1117,16 @@ namespace Perfect_Launcher
             M.ShowDialog();
         }
 
-        private void toolStripMenuItem2_Click(object sender, EventArgs e)
-        {
-            Global g = new Global(MsgGlobal);
-            g.ShowDialog();
-        }
+        //private void toolStripMenuItem2_Click(object sender, EventArgs e)
+        //{
+        //    Global g = new Global(MsgGlobal);
+        //    g.ShowDialog();
+        //}
 
-        private void twitterToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            Process.Start("https://twitter.com/LibardiFelipe");
-        }
+        //private void twitterToolStripMenuItem_Click(object sender, EventArgs e)
+        //{
+        //    Process.Start("https://twitter.com/LibardiFelipe");
+        //}
 
         private void customizarToolStripMenuItem1_Click(object sender, EventArgs e)
         {

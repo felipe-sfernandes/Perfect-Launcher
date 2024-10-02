@@ -22,3 +22,37 @@ C:\Users\felip\source\repos\Perfect Launcher\Perfect Launcher\obj\x64\Release\Pe
 C:\Users\felip\source\repos\Perfect Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.FormAtalhos.resources
 C:\Users\felip\source\repos\Perfect Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Global.resources
 C:\Users\felip\source\repos\Perfect Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.PicPay.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.csproj.AssemblyReference.cache
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.AddEditUser.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.CalcFama.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.CheckForm.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.CloseAll.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Combo.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Customizar.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.ExeArgs.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Form1.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.FormAtalhos.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Global.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Manage.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Properties.Resources.resources
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.csproj.GenerateResource.cache
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.exe
+C:\Users\Felipe\Desktop\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.pdb
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.csproj.AssemblyReference.cache
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.AddEditUser.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.CalcFama.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.CheckForm.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.CloseAll.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Combo.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Customizar.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.ExeArgs.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Form1.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.FormAtalhos.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Global.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Manage.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect_Launcher.Properties.Resources.resources
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.csproj.GenerateResource.cache
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.csproj.CoreCompileInputs.cache
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.exe
+D:\Perfect-Launcher\Perfect Launcher\obj\x64\Release\Perfect Launcher.pdb
